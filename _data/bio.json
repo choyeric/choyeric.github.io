@@ -1,55 +1,58 @@
 {
-  "basics": {
-    "name": "Eric Choy",
-    "label": "Student",
-    "picture": "https://choyeric.github.io/images/eric.jpg",
-    "email": "choyeric@hawaii.edu",
-    "phone": "808-343-8265",
-    "website": "https://choyeric.github.io",
-    "summary": "I am studying for a B.S. in Accounting, Finance, and MIS at the University of Hawaii. I expect to graduate in Fall, 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
-      {
-        "network": "github",
-        "username": "choyeric",
-        "url": "http://github.com/choyeric"
+   "basics":{
+      "name":"Eric Choy",
+      "label":"Student",
+      "picture":"https://choyeric.github.io/images/eric.jpg",
+      "email":"choyeric@hawaii.edu",
+      "phone":"808-343-8265",
+      "website":"https://choyeric.github.io",
+      "summary":"I am studying for a B.S. in Accounting, Finance, and MIS at the University of Hawaii. I expect to graduate in Fall, 2021.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
       },
-    ]
-  },
-  "interests": [
-    {
-      "name": "basketball",
-      "keywords": [
+      "profiles":[
+         {
+            "network":"github",
+            "username":"choyeric",
+            "url":"http://github.com/choyeric"
+         }
       ]
-    },
-     {
-      "name": "video games",
-      "keywords": [
-      ]
-    },
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Accounting (expected Fall, 2021)",
-      "studyType": "B.S.",
-      "startDate": "2017",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   },
+   "interests":[
+      {
+         "name":"basketball",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"video games",
+         "keywords":[
+            
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Accounting (expected Fall, 2021)",
+         "studyType":"B.S.",
+         "startDate":"2017",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
