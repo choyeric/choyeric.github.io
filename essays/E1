@@ -1,0 +1,13 @@
+---
+layout: essay
+type: essay
+title: UI Basics
+# All dates must be YYYY-MM-DD format!
+date: 2020-09-14
+labels:
+  - E1
+---
+
+
+When I first started BrowserHistory1, I had an idea of how to begin the file, but when I got to the four subsections I got a little stumped. I couldn't figure out exactly how to link websites to my file. I ended up watching the screencast to understand how to code this correctly, and tried it myself after watching it once and telling myself what I am doing and how it works. Personally, saying what I am doing helps me understand and remember a lot more than just going at it. My first attempt for this WOD took around 25 minutes, including watching the video and trying it out. I eventually deleted the WOD and tried again while the information was fresh in my head. My second attempt took around 9 minutes and I felt like I knew what I was doing this time.
+For BrowserHistory2, I got lost at the beginning trying to figure out the fonts. I decided to move on for now and was working on the next parts of the .css and had relative success figuring it out by just doing some guess coding and a little bit of Google. Eventually I came back to the fonts and I had to watch the screencast to try get it right, but I still did not understand how to do it. I actually took a short break in between my attempts as I spent around 30 minutes on this first attempt. For my second attempt, I didn't remember how to make the images line up with the text so I had to google it again, and I had trouble with the fonts. I ended up just rewatching the screencast and tried to do it with the video for this attempt to get it to work. I don't really know how the font-family works, but I've been just using that. I tried again a third time without the screencast and it took me around 10 minutes this time.
